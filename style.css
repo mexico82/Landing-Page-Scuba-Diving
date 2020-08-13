@@ -17,10 +17,6 @@
   padding: 0.8rem 2rem;
   margin-left: 1rem;
 }
-header{
-  position: fixed;
-  width: 100vw;
-}
 
 #nav-bar a {
   text-decoration: none;
